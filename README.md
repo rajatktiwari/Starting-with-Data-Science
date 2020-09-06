@@ -1,1 +1,1 @@
-Working on my first model and seeing the results and all that data visualization gave me a rush to explore more . 
+Working on my first model Linear Regression(Single variable) and seeing the results with  all that data visualization gave me a rush to explore more . 
